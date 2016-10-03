@@ -1,0 +1,2 @@
+To undo something in Vi use the command u while in command mode. This will undo or redo the last action made.
+It will not go back more than one step.
