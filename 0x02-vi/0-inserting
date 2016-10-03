@@ -1,0 +1,2 @@
+The command to insert text before the cursor is i when in the command mode. It switches Vi to insert mode and
+returns to command mode by hitting <ESC>.
